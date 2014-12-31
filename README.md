@@ -3,7 +3,7 @@ index.html
 <!DOCTYPE html>
 <html>
   <head>
-    <link href="main.css" rel="stylesheet">
+    <link type="text/css" rel="stylesheet" href="stylesheets/main.css" />
   </head>
 
 <body>
@@ -21,7 +21,7 @@ index.html
 </div>
 
 <div class="container">  
-  <h4><p>Anoka-Hennepin School District</p>
+  <h4>Anoka-Hennepin School District
        <p>Position: Substitute Para Professional, 9/26/14 - current</p></h4>
          <li>Assist teachers in the classroom as needed</li>
          <li>Work with children of various ages and abilities; I often help children who have special 
