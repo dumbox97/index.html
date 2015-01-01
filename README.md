@@ -28,8 +28,8 @@ index.html
    </div>
 
 <div class="container">
-        <h4>User Experience Professonials Association (UXPA MN) Mentorship Program, 11/14 - 4/15
-            <p>Mentor: Ryan Loomis</p></h4>
+        <h4>User Experience Professonials Association (UXPA MN) Mentorship Program
+            <p>Mentor: Ryan Loomis, 11/14 - 4/15</p></h4>
   <li>Work with mentor to gain a better understanding of what tasks UX Designers do on a daily basis</li></div>
 
 <div class="container">
