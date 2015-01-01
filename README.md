@@ -29,8 +29,8 @@ index.html
 
 <div class="container">
         <h4>User Experience Professonials Association (UXPA MN) Mentorship Program
-            <p>Mentor: Ryan Loomis, 11/14 - 4/15</p></h4>
-  <li>Work with mentor to gain a better understanding of what tasks UX Designers do on a daily basis</li></div>
+            <p>Mentor: Ryan Loomis, 11/14 - 4/15</p></h4><ul>
+  <li>Work with mentor to gain a better understanding of what tasks UX Designers do on a daily basis</li></ul></div>
 
 <div class="container">
   <h4>Do You Bowl LLC & DYB Tournaments        
